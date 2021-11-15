@@ -1,0 +1,22 @@
+input {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px ;
+    border-radius: 20px;
+}
+h1 {
+    font-weight: 100;
+    color:coral;
+}
+
+body {
+    background-color:cornsilk;
+    margin-left: 40%;
+}
+button{
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
